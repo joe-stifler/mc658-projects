@@ -1,2 +1,1 @@
-# mc658-projects
-Analysis and Design III - Projects
+Projects of the discipline Algorithm Analysis and Design III taught by Professor Cid C. de Souza
