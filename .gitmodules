@@ -1,0 +1,12 @@
+[submodule "TP1-MC658"]
+	path = TP1-MC658
+	url = https://github.com/joe-stifler/TP1-MC658
+[submodule "TP2-MC658"]
+	path = TP2-MC658
+	url = https://github.com/joe-stifler/TP2-MC658
+[submodule "TP3-MC658"]
+	path = TP3-MC658
+	url = https://github.com/joe-stifler/TP3-MC658
+[submodule "TP4-MC658"]
+	path = TP4-MC658
+	url = https://github.com/joe-stifler/TP4-MC658
