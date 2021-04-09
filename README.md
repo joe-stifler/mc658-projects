@@ -1,3 +1,6 @@
+**Solving NP-Hard Problems:**
+
+
 **Practical Projects of the discipline Algorithm Analysis and Design III taught by Professor Cid C. de Souza**
 
 - **Project 1:** Branch and Bound algorithm for Flow Shop Scheduling problem with 2 machines. **Grade: 9.9/10 (2nd greatest grade in class out of 9)**
